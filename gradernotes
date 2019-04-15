@@ -1,0 +1,8 @@
+I wrote this code myself.
+I believe this code works perfectly in all conditions.
+
+THOUGHT PROCESS
+- A semaphore was needed for controlled access to the gym
+- Trough trial and error, I determined a semaphore for each kind was needed to control how many of customer type could be in the gym
+- In order to determine when to reopen the gym, counter variables for joggers and shooters had to be initialized
+
